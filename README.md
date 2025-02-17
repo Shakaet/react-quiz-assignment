@@ -1,6 +1,7 @@
 # QuizPlatform
 
-![Quiz Platform]
+[Live Link](https://silver-faloodeh-df261e.netlify.app/)
+
 
 ## Description
 
